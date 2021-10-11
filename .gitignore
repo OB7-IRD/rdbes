@@ -37,3 +37,7 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+data_call/2020/data/vessels_identification.csv
+*.yml
+outputs/
+data_call/2021/data/vessels_identification.csv

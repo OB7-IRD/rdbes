@@ -1,2 +1,2 @@
 # rdbes
-Resources and process links to the ICES RDBES
+Resources and process related to the RDBES
